@@ -1,0 +1,10 @@
+
+—python:S3776z"TRefactor this function to reduce its Cognitive Complexity from 62 to the 15 allowed.(½è“óùÿÿÿÿJ$511e7203-96cc-4760-be9e-474445cc2b7c
+opython:S5806˜"+Rename this variable; it shadows a builtin.(ì´êúúÿÿÿÿJ$76f1bbaf-3129-4386-abf4-7b4ec0822358
+kpython:S1940¼"-Use the opposite operator ("not in") instead.(ĞÖ0J$b6b0b9c5-f36d-4230-b960-e03dde0f972a
+qpython:S1940½"-Use the opposite operator ("not in") instead.(·¿¨ĞûÿÿÿÿJ$1e9db369-4ee9-4a91-a660-de9c6fcf8f39
+[python:S2772Ô"Remove this unneeded "pass".(ã‘Û¾J$9e5c9f8a-2cd2-4e21-aca6-7d82cb8a5e1f
+lpython:S1940­"-Use the opposite operator ("not in") instead.(ôÿÓ‡J$6804067b-c71f-4249-813e-76151dc7ce98
+—python:S117Ê"ZRename this parameter "containerClass" to match the regular expression ^[_a-z][a-z0-9_]*$.(±õ´sJ$15072415-1222-4d63-a90f-693f2907429e
+’python:S3776Ê"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(±õ´sJ$d79395f7-c7bf-472b-8528-89579f9067b3
+›python:S117°"XRename this parameter "inclusivePop" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÔÜÀüÿÿÿÿJ$faa897bb-e605-45c4-8c02-e16e9349ab07
